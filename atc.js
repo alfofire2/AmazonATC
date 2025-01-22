@@ -10,7 +10,7 @@ function btn(){
         btn.setAttribute("href","#addToCart");
         btn.setAttribute("style","background-color: #34a4eb !important; border-radius: 10px; border: 0px; padding: 10px;");
         btn.setAttribute("id","addToCart");
-        btn.innerText = "t.me/alfo_daniello | Add to Cart\n\nClick here to add the item to your cart";
+        btn.innerText = "Add to Cart | t.me/alfo_daniello\n\nClick here to add the item to your cart";
         item.prepend(btn);
     }
 }
