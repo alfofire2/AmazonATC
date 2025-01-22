@@ -1,4 +1,4 @@
-# AmazonATC
+# Amazon Add To Cart Button
 
 Create new Bookmark in your browser
 
